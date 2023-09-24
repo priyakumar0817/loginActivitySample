@@ -4,7 +4,8 @@ I created a simple login UI for my tests. The 5 tests do simple input validation
 To run these tests, download or clone the repository.   
 ` git clone https://github.com/priyakumar0817/loginActivitySample `
 
-Go to Android Studio IDE and open the project
+Go to Android Studio IDE and open the project and cd into My Application:   
+`cd MyApplication`
 
 1. To build your Android application (APK):  
 ` ./gradlew assembleDebug `
