@@ -1,7 +1,7 @@
 # Take Home Assignment:  
 I created a simple login UI for my tests. The 5 tests do simple input validation tests.  
 
-To run these tests, download or clone the repository. 
+To run these tests, download or clone the repository.   
 ` git clone https://github.com/priyakumar0817/loginActivitySample `
 
 Go to Android Studio IDE and open the project
