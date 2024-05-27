@@ -1,4 +1,6 @@
 # Take Home Assignment:  
+This project makes use of:
+- Java  
 I created a simple login UI for my tests. The 5 tests do simple input validation tests.  
 
 To run these tests, download or clone the repository.   
